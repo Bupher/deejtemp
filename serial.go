@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/jacobsa/go-serial/serial"
-	"github.com/omriharel/deej/util"
+	"github.com/bupher/deejtemp/util"
 	"go.uber.org/zap"
 )
 

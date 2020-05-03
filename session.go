@@ -7,7 +7,7 @@ import (
 	"github.com/go-ole/go-ole"
 	"github.com/mitchellh/go-ps"
 	"github.com/moutend/go-wca"
-	"github.com/omriharel/deej/util"
+	"github.com/bupher/deejtemp/util"
 	"go.uber.org/zap"
 )
 
